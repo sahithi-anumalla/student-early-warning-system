@@ -66,5 +66,5 @@ These predictions help in identifying students who require academic support.
 - Automated alerts for faculty and students  
 - Inclusion of behavioral and LMS data  
 
-Author
-Sahithi
+## Author
+Sahithi  
